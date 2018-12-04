@@ -13,4 +13,17 @@ In order to be ready for handoff, the course spec requires:
 - [ ] No modifications
 - [ ] Slight modifications
 - [ ] Moderate modifications
-- [ ] Major modifications 
+- [ ] Major modifications
+
+#### Must modify prior handoff
+
+These are changes that must be made before the lesson can be considered production-ready.
+
+#### Must modify during development
+
+These are changes that are not required for handoff, but will be required during development.
+
+#### Suggested improvements
+
+These are subjective suggestions for improvement. You are encouraged to strongly consider these, but not required to 
+implement them.
