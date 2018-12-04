@@ -1,2 +1,2 @@
-# cd-feedback-templates
+# CD Feedback Templates
 Issue Templates for providing feedback
